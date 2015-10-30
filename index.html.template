@@ -14,7 +14,6 @@ PHOTOS
     Reveal.initialize({
       controls: false,
       autoSlide: 2000,
-      autoSlideStoppable: false,
       loop: true,
     });
   </script>
