@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="./reveal.css">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+PHOTOS
+    </div>
+  </div>
+  <script src="./reveal.js"></script>
+  <script>
+    Reveal.initialize({
+      controls: false,
+      autoSlide: 2000,
+      autoSlideStoppable: false,
+      loop: true,
+    });
+  </script>
+</body>
