@@ -15,6 +15,7 @@ PHOTOS
       controls: false,
       autoSlide: 2000,
       loop: true,
+      history: true
     });
   </script>
 </body>
