@@ -13,7 +13,6 @@ PHOTOS
   <script>
     Reveal.initialize({
       controls: false,
-      autoSlide: 2000,
       loop: true,
       history: true
     });
